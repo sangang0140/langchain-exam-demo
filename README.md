@@ -1,3 +1,12 @@
+# LangChain Ambassador Application Project (2025)
+
+This repository was created as part of my application for the LangChain Ambassador Program.  
+It demonstrates how LangChain and LangGraph can be applied to educational automation —  
+specifically for generating personalized student exam reports from CSV data.
+
+---
+
+
 # LangChain + LangGraph Demo: 검사지 자동화
 
 이 프로젝트는 **LangChain**과 **LangGraph**를 활용하여  
