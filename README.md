@@ -1,4 +1,5 @@
 # LangChain Ambassador Application Project (2025)
+<img width="1136" height="640" alt="banner" src="https://github.com/user-attachments/assets/ef3f5baf-c406-4ac3-996c-ee47852be5c3" />
 
 This repository was created as part of my application for the LangChain Ambassador Program.  
 It demonstrates how LangChain and LangGraph can be applied to educational automation —  
